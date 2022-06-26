@@ -1,4 +1,4 @@
-## Test automation project using Appium, Cucumber and Java
+## Pinterest Android Aplication automation using Appium, Cucumber and Java
 <br/>
 <p>This repository contains Appium-Cucumber-Java project to perform test automation on Pinterest mobile app. I have used TestNg for performing assertions and Allure for generating reports. Used appium inspector for finding locators.</p>
 
@@ -65,4 +65,4 @@ allure serve
 <br/><br/>
 
 ## Author:
-This project was developed by [Tariful Islam Abir](https://github.com/tarif-qups) under supervission of **Quality Up Services (QUPS)**.
+This project was developed by [S.M. Mohaimanul Islam](https://github.com/MohaimanulIslam)
